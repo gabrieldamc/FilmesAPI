@@ -1,6 +1,5 @@
 ﻿using FilmesAPI.Data;
 using FilmesAPI.Data.Dto;
-using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
